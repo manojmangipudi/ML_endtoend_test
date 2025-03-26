@@ -1,8 +1,8 @@
 # ML_endtoend_test
 ML end to end testing 
 
-# project strucure
-
+## project strucure
+```
 ML_endtoend_test/
 │
 ├── artifacts/                 # Saved models, datasets, reports
@@ -36,4 +36,4 @@ ML_endtoend_test/
 ├── requirements.txt           # Python dependencies
 ├── README.md                  # Project overview
 └── main.py                    # Entry point for running training/prediction
-
+```
